@@ -1,7 +1,7 @@
 EmmaPHP
 =======
 
-This project is currently predominantly maintained by @nathanbastiaans
+This project is currently predominantly maintained by @nathanbastiaans and @bobdesaunois
 
 Lightweight PHP Framework 
 focusing on rapid development of complex applications using as little code as possible.
