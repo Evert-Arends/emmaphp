@@ -54,7 +54,7 @@ final class Core
         require_once ("application/controllers/" . $_GET["c"] . ".php");
 
         // Link it, detach the GET request and add the Controller affix.
-        $controllerActual = $_GET["c"] . "Controller";
+        $controllerActual = $_GET["c"];
         $_GET["c"] = null;
         
         // Define the loader
